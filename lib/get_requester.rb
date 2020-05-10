@@ -24,5 +24,3 @@ def parse_json
     json_parse
 end
 end
-
-
