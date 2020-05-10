@@ -17,7 +17,8 @@ response.body
 end
 
 def parse_json
-    json_parse = JSON.parse(get_response_body)
+    json_parse = JSON.parse(self.get_response_body)
+    json_parse.collect
 end
 
 end
