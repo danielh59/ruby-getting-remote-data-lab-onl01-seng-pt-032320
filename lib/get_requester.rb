@@ -16,4 +16,8 @@ response = Net::HTTP.get_response(uri)
 response.body
 end
 
+def parse_json
+    json_parse = JSON.parse(get_response_body)
+end
+
 end
