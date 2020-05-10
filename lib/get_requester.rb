@@ -23,5 +23,5 @@ def parse_json
     # json_parse.collect do |info|
     json_parse
 end
-
 end
+
