@@ -24,3 +24,6 @@ def parse_json
     json_parse
 end
 end
+
+birk = GetRequester.new(https://www.birkenstock.com/us/?gclid=Cj0KCQjwzN71BRCOARIsAF8pjfgb1qkTtTh8vjZOeAhmfMnvU6grMAv9x_9fY_BR2s3yKbI38F3v6sYaAv8xEALw_wcB)
+birk.parse_json
