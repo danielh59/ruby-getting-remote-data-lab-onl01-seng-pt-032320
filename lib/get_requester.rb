@@ -1,1 +1,4 @@
-# Write your code here
+require 'open-uri'
+require 'pry'
+require 'jsdon'
+require 'net/http'
