@@ -8,7 +8,7 @@ attr_accessor :url
 class GetRequester
   def intialize(url)
     @url = url
-
   end
+
 
 end
