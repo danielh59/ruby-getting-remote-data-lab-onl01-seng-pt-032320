@@ -1,6 +1,6 @@
 require 'open-uri'
 require 'pry'
-require 'jsdon'
+require 'json'
 require 'net/http'
 
 attr_accessor :url
