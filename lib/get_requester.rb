@@ -8,8 +8,7 @@ require 'net/http'
 class GetRequester
 
 
-  def intialize(url)
-    @@url = url
+  def intialize(URL)
   end
 
 def get_response_body
