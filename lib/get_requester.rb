@@ -8,7 +8,7 @@ require 'net/http'
 class GetRequester
   attr_accessor :url
   def intialize(url)
-    @url = url
+    URL = url
   end
 
 def get_response_body
