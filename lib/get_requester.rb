@@ -6,7 +6,7 @@ require 'net/http'
 
 
 class GetRequester
- attr_accessor :url
+
 
   def initialize(url)
   URL = url
