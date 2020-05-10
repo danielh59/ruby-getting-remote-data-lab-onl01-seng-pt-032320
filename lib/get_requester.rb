@@ -4,7 +4,7 @@ require 'jsdon'
 require 'net/http'
 
 class GetRequester
-  def 
-  end 
+  def
+  end
 
 end 
